@@ -1,5 +1,15 @@
 Hi I am Ma-aruf, I am a software developer
+<<<<<<< Updated upstream
 added a new a line > change from master from folder bug-spelling
 
 Added new line from bug spelling folder
 
+=======
+<<<<<<< HEAD
+added a new a line > change from master from master folder
+=======
+added a new a line > change from master from folder bug-spelling
+
+Added new line from bug spelling folder
+>>>>>>> 053a1c52aa5820ddd23128fd0b7271c6a0d4c8f4
+>>>>>>> Stashed changes
