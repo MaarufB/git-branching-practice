@@ -1,2 +1,8 @@
 Hi I am Ma-aruf, I am a software developer
 added a new a line > change from bug-spelling
+
+
+
+
+This is to create a conflict
+
